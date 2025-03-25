@@ -17,7 +17,7 @@ A simple password hashing and verification system using **SHA-256 with salting**
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/secure-password-hasher.git
+git clone https://github.com/luka-babetzki/secure-password-hasher.git
 cd secure-password-hasher
 ```
 ### 2️⃣ Run the Script
