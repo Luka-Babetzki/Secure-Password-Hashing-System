@@ -39,7 +39,7 @@ Without salting, two identical passwords will generate the same hash. By adding 
 ## 🎯 Next Steps
 1. Implement password storage in a secure database.
 2. Use Argon2 for even stronger password hashing.
-3. Build a simple authentication system using Flask.
+3. Build a simple authentication system.
 
 ## 👨‍💻 Want to reach out?
 Feel free to message me on LinkedIn to suggest improvements! 🚀
