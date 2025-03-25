@@ -22,7 +22,7 @@ cd secure-password-hasher
 ```
 ### 2️⃣ Run the Script
 ```sh
-python password_hasher.py
+python password_hasher_salting.py
 ```
 ### 3️⃣ Register & Verify a Password
 - Enter a password to hash.
